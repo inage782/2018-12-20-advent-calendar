@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://example.com/blog/%E6%96%B0%E7%A4%BE%E4%BC%9A%E4%BA%BA%E3%81%B8%E3%81%AE%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9/</loc>
+    <lastmod>2018-12-21T13:27:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/</loc>
+    <lastmod>2018-12-21T13:27:02+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://example.com/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2018-12-21T13:27:02+09:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,14 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>記事を投下するところ</title>
+    <link>https://example.com/</link>
+    <description>Recent content on 記事を投下するところ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 21 Dec 2018 13:27:02 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>新社会人へのアドバイス</title>
+      <link>https://example.com/blog/%E6%96%B0%E7%A4%BE%E4%BC%9A%E4%BA%BA%E3%81%B8%E3%81%AE%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9/</link>
+      <pubDate>Fri, 21 Dec 2018 13:27:02 +0900</pubDate>
+      
+      <guid>https://example.com/blog/%E6%96%B0%E7%A4%BE%E4%BC%9A%E4%BA%BA%E3%81%B8%E3%81%AE%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9/</guid>
+      <description>こんにちは！ 若者の尻拭いはおっさんの仕事！ということでアドベントカレンダーの穴埋めに励みたいと思います。
+この記事は freee 19新卒 Advent Calendar 2018の20日目の記事になります。
+https://adventar.org/calendars/3661
+まえがき 勤め先に毎年のように新社会人が入ってくるのを見かけるようになると、個人差はあれども老婆心ながらいくつかの助言をしたくなります。
+ そとの WiFi には絶対に繋ぐな（by CSIRT） トイレの個室が多い駅は覚えておけ。お腹壊したとき大変だぞ。（by シニアエンジニア）  パチンコ屋さんのトイレはきれい  スクリーンロックは必ずかけろ即かけろ。（by 自分） 異常に混んでる電車に無理に乗るな。次に来る電車は意外とガラガラだぞ（by 弊社最年長エンジニア）  東西線のこと。  奢ってもらえる後輩になれ。そのうち奢ってあげる先輩になれ。（by 人生の大先輩） 安物買いの銭失いには気をつけてね（by 総務）  いやー、含蓄ありますね。 自分は今年、github organization のメンバー管理についてアドベントカレンダーを書いたけど予想より全然反応がありませんでした。そんなこともあります。
+そんなこともありますが……新社会人の方々も当たろうが当たるまいが積極的にアウトプットを楽しんで成長の糧にしていってほしいと思います。
+新社会人の新生活におすすめグッズ というわけで本題です。
+HARIO (ハリオ) フィルターインボトル 750ml https://www.amazon.co.jp/dp/B00B7XK1IU/
+お茶っ葉と水道水を雑に入れて放置しておくと美味しい水出しのお茶が飲めます。 お手入れ簡単な耐熱容器。清涼飲料水やペットボトル水を買うよりもお財布に優しいし美味しいよ！
+水出しほうじ茶がおすすめです。
+Eufy RoboVac 11S https://www.amazon.co.jp/dp/B07D7TR3D5/
+ロボット掃除機のエントリーモデル。新三種の神器の中でも最もリーズナブルに効果が体感できます。 バーチャルウォールなど複雑な機能は付いていませんが、段差から落ちないしタイマー機能もあります。十分。 とにかく床を片付ける習慣がつくので、友達が遊びにきても安心です。
+個人的には携帯電話の登場と同じく、人間の生活様式自体を変える発明だと思ってます。ロボットに使われよう！
+ブラウン オーラルB 電動歯ブラシ PRO2000 https://www.amazon.co.jp/dp/B01MYC2F5O/
+電動歯ブラシでピッカピカの歯を手に入れよう！ 歯磨きの時間が短く済んでおすすめです。 親知らずが生えてくる時期なので、歯の健康には気をつけてね。
+Google Home mini https://www.yodobashi.com/product/100000001003722514/
+スマホのアラームは卒業してスマートスピーカーを使おう。 朝のニュースもながらで聞けるので話題作りにもよいぞ。 音楽やラジオも雰囲気に合わせて流せるので音楽配信サービスを契約するのもいいですよ。 No Music, No Life！</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://example.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/</guid>
+      <description>アドベントカレンダーを投稿するために取り急ぎ作ったページだよ。</description>
+    </item>
     
   </channel>
 </rss>
